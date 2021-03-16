@@ -75,6 +75,7 @@ FLOWS = [
     "freebox",
     "fritzbox",
     "fritzbox_callmonitor",
+    "fxb",
     "garmin_connect",
     "gdacs",
     "geofency",

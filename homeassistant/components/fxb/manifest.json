@@ -1,0 +1,14 @@
+{
+  "domain": "fxb",
+  "name": "FXB Fan over Remote",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/fxb",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@Hamst2r"
+  ]
+}

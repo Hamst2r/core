@@ -164,6 +164,7 @@ homeassistant/components/foscam/* @skgsergio
 homeassistant/components/freebox/* @hacf-fr @Quentame
 homeassistant/components/fronius/* @nielstron
 homeassistant/components/frontend/* @home-assistant/frontend
+homeassistant/components/fxb/* @Hamst2r
 homeassistant/components/garmin_connect/* @cyberjunky
 homeassistant/components/gdacs/* @exxamalte
 homeassistant/components/geniushub/* @zxdavb
